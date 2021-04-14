@@ -4,7 +4,7 @@ var bMapAPIKey =
 function GetMap() {
   var map = new Microsoft.Maps.Map("#bing-map", {
     credentials:
-      "ApRYAJ3KLzZb23MFEOAOAA3oIlaI0Z56ShmEVSfJw4Rpi-4uRFCRaTqtAh8fmQRg",
+      "Ah87YquJ1qsOz1mHP0eT9VGj0ykrELznLL2TpzykGeqRch1LRidGTDEcCGN061cK",
     center: new Microsoft.Maps.Location(41.10655, -80.64792),
     mapTypeId: Microsoft.Maps.MapTypeId.road,
     zoom: 15,
