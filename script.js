@@ -1,5 +1,5 @@
 var bMapAPIKey =
-  "ApRYAJ3KLzZb23MFEOAOAA3oIlaI0Z56ShmEVSfJw4Rpi-4uRFCRaTqtAh8fmQRg";
+  "Ah87YquJ1qsOz1mHP0eT9VGj0ykrELznLL2TpzykGeqRch1LRidGTDEcCGN061cK";
 
 function GetMap() {
   var map = new Microsoft.Maps.Map("#bing-map", {
