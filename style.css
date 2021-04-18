@@ -1,29 +1,30 @@
 body {
-  background-color: rgb(23, 22, 27);
+  background-color: rgb(188, 178, 224);
   font-family: sans-serif;
 }
 .wrapper {
-  background-color: rgb(47, 0, 235);
+  background-color: rgb(55, 52, 70);
   color: rgb(255, 255, 255);
   text-align: center;
 }
 .item a {
   display: block;
-  color: white;
+  color: rgb(55, 52, 70);
   text-align: center;
   margin: 2em;
   padding: 1em;
   text-decoration: none;
-  background-color: rgb(23, 22, 27);
+  background-color: rgb(188, 178, 224);
   border-style: solid;
   border-radius: 2em;
   border-color: white;
 }
 a:hover {
-  background-color: rgb(47, 0, 235);
+  background-color: rgb(55, 52, 70);
   border-style: solid;
   border-radius: 2em;
-  border-color: white;
+  border-color: rgb(188, 178, 224);
+  color: rgb(188, 178, 224);
 }
 #bing-map {
   margin: auto;
